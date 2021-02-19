@@ -19,7 +19,7 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 
 ### App Walkthough GIF
 <img src="https://github.com/mady-dx/Flixter/blob/master/Flixter_Vertical-Walkthrough.gif" width=250><br>
-<img src="https://github.com/mady-dx/Flixter/blob/master/Flixter_Horizontal-Walkthrough.gif" width=250><br>
+<img src="https://github.com/mady-dx/Flixter/blob/master/Flixter_Horizontal-Walkthrough.gif" width=500><br>
 ### Notes
 It was quite a challenge implementing the RecycleViewer but after doing so, it was very satisfying to see the movies line up neatly on the screen. For the future, I hope to implement a dark mode since I prefer the darker colors rather than the default colors android provides as well as a way to filter the movies by rating, alphabetical order, and popularity. 
 
