@@ -18,7 +18,8 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="Flixter_Horizontal-Walkthrough.gif"  title='Video Walkthrough - Horizontal'width=250><br>
+<img src="Flixter_Vertical-Walkthrough"  title='Video Walkthrough-Vertical' width=250><br>
 
 ### Notes
 It was quite a challenge implementing the RecycleViewer but after doing so, it was very satisfying to see the movies line up neatly on the screen. For the future, I hope to implement a dark mode since I prefer the darker colors rather than the default colors android provides as well as a way to filter the movies by rating, alphabetical order, and popularity. 
